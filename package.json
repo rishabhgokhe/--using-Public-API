@@ -1,0 +1,13 @@
+{
+  "name": "--using-public-api",
+  "version": "1.0.0",
+  "description": "So I just started this repository and I will be including some exciting features using api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
